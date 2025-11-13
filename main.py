@@ -153,7 +153,7 @@ def diagrama_porcentual(datos):
     print("")
 
 
-# EJECUCIÓN
+# Ejecución
 if __name__ == "__main__":
     print("\nFINLAND FLAG\n")
     finland_flag()
@@ -162,3 +162,4 @@ if __name__ == "__main__":
     grafico_funcion()
     datos = leer_secuencia()
     diagrama_porcentual(datos)
+
